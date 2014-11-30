@@ -1,5 +1,3 @@
-__author__ = 'bmartins'
-
 import urllib
 import urllib2
 
